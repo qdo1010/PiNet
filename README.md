@@ -1,4 +1,5 @@
 # PiNet
+## A fast and compact deep neural net with state-of-the-art accuracy on MNIST dataset
 
 SqueezeNet implementation: https://github.com/hungnguyen94/SqueezeNet-Keras
 
