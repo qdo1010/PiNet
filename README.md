@@ -10,6 +10,8 @@ SqueezeNet implementation: https://github.com/hungnguyen94/SqueezeNet-Keras
 
 XNOR library from: https://github.com/DingKe/nn_playground
 
+XNOR Pytorch: https://github.com/jiecaoyu/XNOR-Net-PyTorch
+
 Hand Written Digit Recoginition from: https://github.com/r4ghu/iOS-CoreML-MNIST
 
 Tinder-like GUI Design from: https://github.com/Yalantis/Koloda
